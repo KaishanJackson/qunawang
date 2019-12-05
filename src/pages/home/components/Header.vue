@@ -1,13 +1,12 @@
 <template>
-  <div id="app">
-    
-    <router-view/>
+  <div>
+      this is header
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+    name: 'HomeHeader'
 }
 </script>
 
